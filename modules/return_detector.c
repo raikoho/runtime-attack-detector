@@ -1,3 +1,4 @@
+#include <stddef.h>
 #include "../detector.h"
 
 int is_valid_code(uint64_t addr) {
